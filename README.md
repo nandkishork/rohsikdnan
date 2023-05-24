@@ -6,7 +6,7 @@ I'm a
 - Full Stack Developer<br> 
 - Web Designer<br> 
 - Python Programmer
-App Developer<br><br>
+- App Developer<br><br>
 
 Interests are<br>
 💡 Creating Personal projects<br>
