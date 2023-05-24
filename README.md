@@ -9,10 +9,10 @@ I'm a
 App Developer<br><br>
 
 Interests are<br>
-- Creating Personal projects
-- Reading Tech Related Contents
-- Creating Technical Content
-- Learning New Technologies<br><br><br>
+💡 Creating Personal projects<br>
+📚 Reading tech-related content to stay abreast of the latest trends and advancements<br>
+🖋️ Creating technical content to share knowledge and insights with the community<br>
+🌱 Continuous learning and exploring new technologies to expand my skill set<br><br><br>
 
 
 ## 🌐 Socials:
