@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm presently pursuing my Bachelor's degree in Civil Engineering at Malaviya National Institute of Technology Jaipur.<br>A technology enthusiast.<br><br>
+Hello everyone,
+
+I'm _Nandkishor Kumawat_, a passionate technology enthusiast currently pursuing my Bachelor's degree in Civil Engineering at Malaviya National Institute of Technology Jaipur.<br>I believe that *the fusion of technology and engineering has the power to reshape our world and drive innovation to new heights.*<br><br>
 I'm a
 - Full Stack Developer<br> 
 - Web Designer<br> 
